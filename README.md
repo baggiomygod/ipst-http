@@ -1,13 +1,13 @@
-# tofu-http
+# ipst-http
 
 ## Install
 ```shell
-npm install tofu-http
+npm install ipst-http
 ```
 
 ## Example
 ``` javascript
-import http from 'tofu-http';
+import http from 'ipst-http';
 const params = {
     id:1
 }
